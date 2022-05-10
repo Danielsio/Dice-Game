@@ -1,3 +1,3 @@
 # DIce-Game
 
-refresh site to reveal the winner !!
+Refresh site to reveal the winner !!
